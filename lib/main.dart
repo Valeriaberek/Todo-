@@ -93,8 +93,8 @@ class _HomePageState extends State<HomePage> {
           backgroundColor: const Color(0xFFFF77B0),
           indicatorColor: Colors.white24,
           height: 64,
-          iconTheme: MaterialStatePropertyAll(IconThemeData(color: Colors.white)),
-          labelTextStyle: MaterialStatePropertyAll(TextStyle(color: Colors.white)),
+          iconTheme: WidgetStatePropertyAll(IconThemeData(color: Colors.white)),
+          labelTextStyle: WidgetStatePropertyAll(TextStyle(color: Colors.white)),
         ),
         child: NavigationBar(
           selectedIndex: _navIndex,
