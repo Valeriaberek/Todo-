@@ -1,0 +1,1 @@
+// // Ce fichier n'est pas utilisé dans la version simple
