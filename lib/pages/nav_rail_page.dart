@@ -2,7 +2,6 @@ import 'package:flutter/material.dart';
 import 'package:provider/provider.dart';
 
 import '../theme/theme_provider.dart';
-import '../components/todo_page.dart';
 // import '../components/favorite_page.dart';
 // import '../components/stats_page.dart';
 
